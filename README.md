@@ -18,5 +18,4 @@
 
 <h3>still working</h3>
 <p>
-<img src="https://images-na.ssl-images-amazon.com/images/I/71p9RUp9nxL._SX425_.jpg" alt="strange top pic">
-</p>
+<a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/71p9RUp9nxL._SX425_.jpg" alt="strange top pic"></a>
