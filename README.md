@@ -15,3 +15,6 @@
 </p>
 
 <p> this is <a href="http://www.ta0.com/forum/index.php">our community</a></p>
+
+<h3>still working</h3>
+<img src="https://images-na.ssl-images-amazon.com/images/I/71p9RUp9nxL._SX425_.jpg" alt="strange top pic">
