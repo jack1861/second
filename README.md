@@ -35,3 +35,5 @@
 <input type="text">
 
 <p>the correct answer to the question "whats the best string length" is: <input type="text"></p>
+
+<p>whats the best string length? answer: <input type="text" placeholder="write answer here"></p>
