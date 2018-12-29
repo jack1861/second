@@ -18,4 +18,16 @@
 
 <h3>still working</h3>
 <p>
+
 <a href="#"><img src="https://images-na.ssl-images-amazon.com/images/I/71p9RUp9nxL._SX425_.jpg" alt="strange top pic"></a>
+
+<ol>
+  <li>hmm</li>
+</ol>
+
+<ul>
+  <li>hmm</ul>
+</ul>
+
+<p>and here we have a link to <a href="https://www.youtube.com/watch?v=skvwYWgnpUI">thanos</a> fucking shit up</p>
+<!--frankly im just trying to remember and practice shit. im so fucking tired rn-->    
