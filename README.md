@@ -26,7 +26,7 @@
 </ol>
 
 <ul>
-  <li>hmm</ul>
+  <li>hmm</li>
 </ul>
 
 <p>and here we have a link to <a href="https://www.youtube.com/watch?v=skvwYWgnpUI">thanos</a> fucking shit up</p>
