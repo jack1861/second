@@ -42,5 +42,5 @@
 
 <p>whats the best string length? answer: <input type="text" placeholder="write answer here"></p>
 
-<a href="contacts-header">contacts</a>
+<h2 id="contacts-header">contacts</h2>
 <p>contact me beesh</p>
