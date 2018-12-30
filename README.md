@@ -1,5 +1,9 @@
 # second
 <h1>hoping this works<h1>
+<ul>
+  <li><a href="#contacts-header">contacts</a></li>
+</ul>  
+
 <p>this doesnt make sense</p>
 <p>and for your viewing pleasure <a href="https://www.youtube.com/watch?v=TLiGA_wrNp0">a link to doja</a></p>
 
@@ -37,3 +41,6 @@
 <p>the correct answer to the question "whats the best string length" is: <input type="text"></p>
 
 <p>whats the best string length? answer: <input type="text" placeholder="write answer here"></p>
+
+<a href="contacts-header">contacts</a>
+<p>contact me beesh</p>
