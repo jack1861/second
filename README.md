@@ -5,7 +5,7 @@
   <li><a href="#sizes">different sizes of tops</a></li>
   <li><a href="#materials">types of materials used for tops</a></li>
   <li><a href="#contacts-header">contacts</a></li>
-  <li><a href="#memory-issues">memorize</a></li>
+  <li><a href="#memory-issues"target="_blank">memorize</a></li>
 </ul>  
 
 <p>this doesnt make sense</p>
