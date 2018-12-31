@@ -8,7 +8,7 @@
   <li><a href="#memory-issues" target="_blank">memorize</a></li>
 </ul>  
 
-<a href="#bread">bread ingredient list</a>
+<a href="#bread" target="_blank">bread ingredient list</a>
 <!--just practicing invisible notes-->
 
 <p>this doesnt make sense</p>
