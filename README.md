@@ -68,7 +68,7 @@
 
 <h3>
 
-<p>honey wholewheat <h2 id="bread">bread</h2> <a href="https://en.wikipedia.org/wiki/Ingredient" target="_blank">ingredient</a> list</p>
+<p>honey wholewheat <a id="bread">bread</a> <a href="https://en.wikipedia.org/wiki/Ingredient" target="_blank">ingredient</a> list</p>
 
 <ol>
   <li>1/2 C. warm water</li>
