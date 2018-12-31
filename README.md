@@ -71,7 +71,7 @@
 
 <ol>
   <li>1/2 C. warm water</li>
-  <li>3 tbsp yeast/li>
+  <li>3 tbsp yeast</li>
   <li>1 tbsp salt (kosher)</li>
   <li>1/3 C. honey</li>
   <li>1/4 C. olive oil</li>
