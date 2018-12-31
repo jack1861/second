@@ -60,3 +60,5 @@
 
 <h2 id="contacts-header">contacts</h2>
 <p>contact me beesh</p>
+
+<a href="http://aliveandfighting.com/gluten-free-cereals/"target="_blank">link to gluten free cereal list</a>
