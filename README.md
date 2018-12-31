@@ -5,7 +5,7 @@
   <li><a href="#sizes">different sizes of tops</a></li>
   <li><a href="#materials">types of materials used for tops</a></li>
   <li><a href="#contacts-header">contacts</a></li>
-  <li><a href="#memory-issues"target="_blank">memorize</a></li>
+  <li><a href="#memory-issues" target="_blank">memorize</a></li>
 </ul>  
 
 <p>this doesnt make sense</p>
@@ -61,4 +61,4 @@
 <h2 id="contacts-header">contacts</h2>
 <p>contact me beesh</p>
 
-<a href="http://aliveandfighting.com/gluten-free-cereals/"target="_blank">link to gluten free cereal list</a>
+<a href="http://aliveandfighting.com/gluten-free-cereals/" target="_blank">link to gluten free cereal list</a>
