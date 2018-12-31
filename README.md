@@ -8,6 +8,8 @@
   <li><a href="#memory-issues" target="_blank">memorize</a></li>
 </ul>  
 
+<!--just practicing invisible notes-->
+
 <p>this doesnt make sense</p>
 <p>and for your viewing pleasure <a href="https://www.youtube.com/watch?v=TLiGA_wrNp0" target="_blank">a link to doja</a></p>
 
@@ -62,3 +64,16 @@
 <p>contact me beesh</p>
 
 <a href="http://aliveandfighting.com/gluten-free-cereals/" target="_blank">link to gluten free cereal list</a>
+
+
+
+<p>honey wholewheat bread <a href="https://en.wikipedia.org/wiki/Ingredient" target="_blank">ingredient</a> list</p>
+
+<ol>
+  <li>1/2 C. warm water</li>
+  <li>3 tbsp yeast/li>
+  <li>1 tbsp salt (kosher)</li>
+  <li>1/3 C. honey</li>
+  <li>1/4 C. olive oil</li>
+  <li>1 3/4 C warm water</li>
+</ol>
