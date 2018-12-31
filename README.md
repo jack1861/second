@@ -77,5 +77,7 @@
   <li>1/3 C. honey</li>
   <li>1/4 C. olive oil</li>
   <li>1 3/4 C warm water</li>
+  <li>3 C. wholewheat flour</li>
+  <li>unbleached all purpose flour</li>
 </ol>
 </h3>
