@@ -65,7 +65,7 @@
 
 <a href="http://aliveandfighting.com/gluten-free-cereals/" target="_blank">link to gluten free cereal list</a>
 
-
+<h3>
 
 <p>honey wholewheat bread <a href="https://en.wikipedia.org/wiki/Ingredient" target="_blank">ingredient</a> list</p>
 
@@ -77,3 +77,4 @@
   <li>1/4 C. olive oil</li>
   <li>1 3/4 C warm water</li>
 </ol>
+</h3>
