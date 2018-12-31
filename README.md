@@ -5,6 +5,7 @@
   <li><a href="#sizes">different sizes of tops</a></li>
   <li><a href="#materials">types of materials used for tops</a></li>
   <li><a href="#contacts-header">contacts</a></li>
+  <li><a href="#memory-issues">memorize</a></li>
 </ul>  
 
 <p>this doesnt make sense</p>
@@ -54,6 +55,8 @@
 <p>the correct answer to the question "whats the best string length" is: <input type="text"></p>
 
 <p>whats the best string length? answer: <input type="text" placeholder="write answer here"></p>
+
+<h2 id="memory-issues">memorize</h2>
 
 <h2 id="contacts-header">contacts</h2>
 <p>contact me beesh</p>
