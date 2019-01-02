@@ -6,6 +6,7 @@
   <li><a href="#materials">types of materials used for tops</a></li>
   <li><a href="#contacts-header">contacts</a></li>
   <li><a href="#memory-issues" target="_blank">memorize</a></li>
+  <li><a href="#textbox" target="_blank">the text box</a></li>
 </ul>  
 
 <a href="#bread" target="_blank">bread ingredient list</a>
@@ -81,3 +82,5 @@
   <li>unbleached all purpose flour</li>
 </ol>
 </h3>
+
+<a id="textbox"><input type="text" placeholder="dont click this beesh"></a>
