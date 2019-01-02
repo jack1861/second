@@ -7,9 +7,10 @@
   <li><a href="#contacts-header">contacts</a></li>
   <li><a href="#memory-issues" target="_blank">memorize</a></li>
   <li><a href="#textbox" target="_blank">the text box</a></li>
+  <li><a href="#top-pic" target="_blank">top picture</a></li>
+  <li><a href="#bread" target="_blank">bread ingredient list</a></li>
 </ul>  
 
-<a href="#bread" target="_blank">bread ingredient list</a>
 <!--just practicing invisible notes-->
 
 <p>this doesnt make sense</p>
@@ -85,5 +86,5 @@
 
 <a id="textbox"><input type="text" placeholder="dont click this beesh"></a>
 <p>
-<a href="#"><img src="https://instagram.fyyz1-1.fna.fbcdn.net/vp/6b3770ad6eb0d4ac35f2f561f04efcd6/5CB30D0E/t51.2885-15/sh0.08/e35/s750x750/26307599_135588473908163_2074110050212773888_n.jpg?_nc_ht=instagram.fyyz1-1.fna.fbcdn.net" alt="picture of top"></a>
+<a id="top-pic"><a href="#"><img src="https://instagram.fyyz1-1.fna.fbcdn.net/vp/6b3770ad6eb0d4ac35f2f561f04efcd6/5CB30D0E/t51.2885-15/sh0.08/e35/s750x750/26307599_135588473908163_2074110050212773888_n.jpg?_nc_ht=instagram.fyyz1-1.fna.fbcdn.net" alt="picture of top"></a></a>
 </p>
