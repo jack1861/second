@@ -9,6 +9,7 @@
   <li><a href="#textbox" target="_blank">the text box</a></li>
   <li><a href="#top-pic" target="_blank">top picture</a></li>
   <li><a href="#bread" target="_blank">bread ingredient list</a></li>
+  <li><a href="#jacks" target="_blank">kugelach</a></li>
 </ul>  
 
 <!--just practicing invisible notes-->
@@ -99,5 +100,5 @@
 <p>
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg" alt="picture of jacks"></a>
 </p>
-
+<a id="jacks">kugelach</a>
 <a href="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg" target="_blank">link to a picture of jacks</a>
