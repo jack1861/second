@@ -100,4 +100,4 @@
 <a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg" alt="picture of jacks"></a>
 </p>
 
-<a href="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg">link to a picture of jacks</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg" target="_blank">link to a picture of jacks</a>
