@@ -96,3 +96,6 @@
 <p>
 <a href="#"><img src="https://www.tts-group.co.uk/on/demandware.static/-/Sites-TTSGroupE-commerceMaster/default/dw8eda4cf5/images/large/1001228_01_T-OAK_002.jpg" alt="image of wood kugelach"></a>
 </p>
+<p>
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/The_Childrens_Museum_of_Indianapolis_-_Jacks.jpg" alt="picture of jacks"></a>
+</p>
