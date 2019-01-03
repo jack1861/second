@@ -92,5 +92,5 @@
 
 <p>
 <a href="#"><img src="https://smhttp-ssl-80189-judaica.nexcesscdn.net/media/catalog/product/cache/f073062f50e48eb0f0998593e568d857/k/u/kugelach-31418a.gif" alt="image of kugelach"></a>
-
+<a href="#"><img src="https://www.tts-group.co.uk/on/demandware.static/-/Sites-TTSGroupE-commerceMaster/default/dw8eda4cf5/images/large/1001228_01_T-OAK_002.jpg" alt="image of wood kugelach"></a>
 </p>
